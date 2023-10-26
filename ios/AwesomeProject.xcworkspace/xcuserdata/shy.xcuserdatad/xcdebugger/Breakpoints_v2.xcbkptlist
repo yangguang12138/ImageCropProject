@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "807584CF-1E07-412C-A566-B33245FDB555"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64F5AFE6-E384-458C-9A90-179FEA2A9A12"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../node_modules/react-native/React/Base/RCTConvert.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1253"
+            endingLineNumber = "1253"
+            landmarkName = "+UIImage:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64F5AFE6-E384-458C-9A90-179FEA2A9A12 - 6f69742b2e7b5c0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1253"
+                  endingLineNumber = "1253"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "64F5AFE6-E384-458C-9A90-179FEA2A9A12 - 6f69742b2e7b5c0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1253"
+                  endingLineNumber = "1253"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7F37C7E-7375-4190-951D-AC0F07B46977"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../node_modules/react-native/React/Base/RCTConvert.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1292"
+            endingLineNumber = "1292"
+            landmarkName = "+UIImage:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7F37C7E-7375-4190-951D-AC0F07B46977 - 6f69742b2e7b5106"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1292"
+                  endingLineNumber = "1292"
+                  offsetFromSymbolStart = "944">
+               </Location>
+               <Location
+                  uuid = "C7F37C7E-7375-4190-951D-AC0F07B46977 - 6f69742b2e7b5106"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1292"
+                  endingLineNumber = "1292"
+                  offsetFromSymbolStart = "552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2059A5F3-9684-4588-ACD7-128118217012"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../node_modules/react-native/React/Base/RCTConvert.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1294"
+            endingLineNumber = "1294"
+            landmarkName = "+UIImage:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2059A5F3-9684-4588-ACD7-128118217012 - 6f69742b2e7b5144"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1294"
+                  endingLineNumber = "1294"
+                  offsetFromSymbolStart = "1140">
+               </Location>
+               <Location
+                  uuid = "2059A5F3-9684-4588-ACD7-128118217012 - 6f69742b2e7b5144"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1294"
+                  endingLineNumber = "1294"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1EA4BC5-5D06-49F9-A335-A27F2747B5ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../node_modules/react-native/React/Base/RCTConvert.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1296"
+            endingLineNumber = "1296"
+            landmarkName = "+UIImage:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1EA4BC5-5D06-49F9-A335-A27F2747B5ED - 6f69742b2e7b519a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1296"
+                  endingLineNumber = "1296"
+                  offsetFromSymbolStart = "1260">
+               </Location>
+               <Location
+                  uuid = "A1EA4BC5-5D06-49F9-A335-A27F2747B5ED - 6f69742b2e7b519a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1296"
+                  endingLineNumber = "1296"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4960D311-B3F9-4AE2-A42F-592A75341F5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../node_modules/react-native/React/Base/RCTConvert.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1300"
+            endingLineNumber = "1300"
+            landmarkName = "+UIImage:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4960D311-B3F9-4AE2-A42F-592A75341F5B - 6f69742b2e7b561e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1300"
+                  endingLineNumber = "1300"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+               <Location
+                  uuid = "4960D311-B3F9-4AE2-A42F-592A75341F5B - 6f69742b2e7b561e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1300"
+                  endingLineNumber = "1300"
+                  offsetFromSymbolStart = "636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16CB26AC-7F2A-4BE4-AD62-F3AF0D390D28"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../node_modules/react-native/React/Base/RCTConvert.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1288"
+            endingLineNumber = "1288"
+            landmarkName = "+UIImage:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "16CB26AC-7F2A-4BE4-AD62-F3AF0D390D28 - 6f69742b2e7b5082"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1288"
+                  endingLineNumber = "1288"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "16CB26AC-7F2A-4BE4-AD62-F3AF0D390D28 - 6f69742b2e7b5082"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[RCTConvert(Deprecated) UIImage:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/React/Base/RCTConvert.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1288"
+                  endingLineNumber = "1288"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F99B41F-D0CB-4DD8-B985-22FF7C790241"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../node_modules/react-native/React/Base/RCTUtils.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "789"
+            endingLineNumber = "789"
+            landmarkName = "RCTImageFromLocalBundleAssetURL(imageURL)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2E0A26D-3A44-449C-B133-C0B85AD79EE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/FlipperKit/iOS/Plugins/FlipperKitPluginUtils/FlipperKitLayoutIOSDescriptors/FlipperKitLayoutIOSDescriptors/SKViewDescriptor.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "501"
+            endingLineNumber = "501"
+            landmarkName = "-getSnapshot:forNode:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29E21C69-EDB9-42DF-B2D2-0B2FDCF7B8F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../node_modules/react-native/Libraries/Image/RCTImageView.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "-setBlurRadius:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29E21C69-EDB9-42DF-B2D2-0B2FDCF7B8F6 - b57b51491c017311"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RCTImageView setBlurRadius:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageView.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "29E21C69-EDB9-42DF-B2D2-0B2FDCF7B8F6 - b57b51491c017311"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RCTImageView setBlurRadius:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageView.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4A0C6AD-5005-45F9-A1DE-FD9F3BDD8662"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../node_modules/react-native/Libraries/Image/RCTImageView.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "-setCapInsets:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4A0C6AD-5005-45F9-A1DE-FD9F3BDD8662 - 4fc9afdfe4cee89d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RCTImageView setCapInsets:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageView.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "D4A0C6AD-5005-45F9-A1DE-FD9F3BDD8662 - 4fc9afdfe4cee89d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RCTImageView setCapInsets:]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shy/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageView.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
